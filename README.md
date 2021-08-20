@@ -19,3 +19,4 @@ Public speaking
 
 "Prepare files"
 "Put a few things in"
+"Add  chess, family and jazz piano trio to list of other interests on index.html Revise use of div and create 80% centered block"
